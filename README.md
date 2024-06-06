@@ -6,4 +6,4 @@ AlekseiyMotivator - Мотивация на все случаи жизни
 Если хотите увидеть свой мотиватор в моей программе то не стесняйтесь присылать их в мой Discord Сервер
 
 Мои ссылки:
-[Мой Discord](https://discord.gg/CWquvnenYK) [Мой Telegram](https://t.me/talanov14) [Мой YouTube](https://www.youtube.com/channel/UCE9SHLtV9h6SEcUkrfbpVFA)
+[Мой Discord](https://discord.gg/Pq5sp68FAQ) [Мой Telegram](https://t.me/talanov14) [Мой YouTube](https://www.youtube.com/channel/UCE9SHLtV9h6SEcUkrfbpVFA)
