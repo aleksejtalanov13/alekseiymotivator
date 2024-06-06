@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?import javafx.scene.*?><?import javafx.collections.*?><?import javafx.scene.layout.*?><?import javafx.scene.control.*?><?import javafx.scene.text.*?><?import javafx.scene.image.*?><?import javafx.scene.shape.*?><?import javafx.scene.paint.*?><?import javafx.scene.web.*?><?import javafx.geometry.*?><?import java.lang.*?><?import org.develnext.jphp.ext.javafx.classes.data.*?><?import org.develnext.jphp.ext.javafx.support.*?><?import org.develnext.jphp.ext.javafx.support.control.*?><?import org.develnext.jphp.ext.game.support.*?><AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" AnchorPane.bottomAnchor="0" AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" AnchorPane.topAnchor="0" focusTraversable="false" id="" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="248" prefWidth="424" styleClass="">
+  <children>
+    <ScrollPane focusTraversable="false" hbarPolicy="AS_NEEDED" hvalue="0" id="container" layoutX="0" layoutY="0" prefHeight="248" prefWidth="424" styleClass="scroll-pane " vbarPolicy="AS_NEEDED" vvalue="0">
+      <content>
+        <AnchorPane focusTraversable="false" id="" maxHeight="-1" maxWidth="-1" minHeight="-1" minWidth="-1" prefHeight="233" prefWidth="416" styleClass="">
+          <children>
+            <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="label" layoutX="8" layoutY="8" prefHeight="152" prefWidth="408" styleClass="label " text="AlekseiyMotivator v1.0&#10;Мотиватор от Алексея&#10;&#10;Поднимет ваш настрой благодаря мотиваторам которые вы можете предложить в моем Discord&#10;Я их буду внедрять в базу мотиваторов чтобы продолжать мотивировать вас&#10;Спасибо!" textAlignment="LEFT" underline="false" wrapText="true">
+              <font>
+                <Font name="System Regular" size="12"/>
+              </font>
+            </LabelEx>
+            <Data cursor="DEFAULT" enabled="1" id="data-label" visible="1"/>
+            <Hyperlink alignment="CENTER_LEFT" contentDisplay="LEFT" ellipsisString="..." focusTraversable="true" graphicTextGap="4" id="link" layoutX="8" layoutY="216" prefHeight="17" prefWidth="72" styleClass="hyperlink " text="Мой Discord" textAlignment="LEFT" wrapText="false">
+              <font>
+                <Font name="System Regular" size="12"/>
+              </font>
+            </Hyperlink>
+            <Data cursor="DEFAULT" enabled="1" id="data-link" visible="1"/>
+            <Hyperlink alignment="CENTER_LEFT" contentDisplay="LEFT" ellipsisString="..." focusTraversable="true" graphicTextGap="4" id="link3" layoutX="192" layoutY="216" prefHeight="17" prefWidth="80" styleClass="hyperlink " text="Мой Telegram" textAlignment="LEFT" wrapText="false">
+              <font>
+                <Font name="System Regular" size="12"/>
+              </font>
+            </Hyperlink>
+            <Data cursor="DEFAULT" enabled="1" id="data-link3" visible="1"/>
+            <LabelEx alignment="CENTER_LEFT" autoSize="false" contentDisplay="LEFT" ellipsisString="..." focusTraversable="false" graphicTextGap="4" id="labelAlt" layoutX="8" layoutY="184" prefHeight="16" prefWidth="96" styleClass="label " text="Мои ссылки:" textAlignment="LEFT" underline="false" wrapText="false">
+              <font>
+                <Font name="System Regular" size="12"/>
+              </font>
+            </LabelEx>
+            <Data cursor="DEFAULT" enabled="1" id="data-labelAlt" visible="1"/>
+            <Hyperlink alignment="CENTER_LEFT" contentDisplay="LEFT" ellipsisString="..." focusTraversable="true" graphicTextGap="4" id="link4" layoutX="288" layoutY="216" prefHeight="17" prefWidth="72" styleClass="hyperlink " text="Мой GitHub" textAlignment="LEFT" wrapText="false">
+              <font>
+                <Font name="System Regular" size="12"/>
+              </font>
+            </Hyperlink>
+            <Data cursor="DEFAULT" enabled="1" id="data-link4" visible="1"/>
+          </children>
+        </AnchorPane>
+      </content>
+    </ScrollPane>
+    <Data cursor="DEFAULT" enabled="1" id="data-container" visible="1"/>
+    <Hyperlink alignment="CENTER_LEFT" contentDisplay="LEFT" ellipsisString="..." focusTraversable="true" graphicTextGap="4" id="linkAlt" layoutX="96" layoutY="216" prefHeight="17" prefWidth="80" styleClass="hyperlink " text="Мой YouTube" textAlignment="LEFT" wrapText="false">
+      <font>
+        <Font name="System Regular" size="12"/>
+      </font>
+    </Hyperlink>
+    <Data cursor="DEFAULT" enabled="1" id="data-linkAlt" visible="1"/>
+  </children>
+</AnchorPane>
